@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Abhinita Sanabada!
 
 🚀 **Senior Software Engineer | AI & Data Science Enthusiast**  
-🔹 9+ years of experience in **Java, Spring Boot, Microservices, REST APIs, Jenkins, SQL databases**  
+🔹 9+ years of experience(Wells Fargo, SAP Labs & J.P. Morgan Chase & co.) in **Java, Spring Boot, Microservices, REST APIs, Jenkins, SQL databases**  
 🔹 Currently pursuing my **Master’s in Data Analytics at San Jose State University**  
 🔹 Transitioning into **AI, ML, LLMs, and Data Science**  
 
