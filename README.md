@@ -25,8 +25,8 @@
 ### ***Professional Experience***
 **Wells Fargo Senior : Software Engineer Nov 2021–Jan 2024**
 - Maintained and scaled core banking microservices by building robust REST APIs using Java/Spring, ensuring
-high availability and transactional integrity. (Use "microservices" to sound more modern/cloud-native).
-- Created a Selenium + TestNG automation framework from scratch, reducing regression cycles by ~40%
+high availability and transactional integrity. 
+- Created a Selenium + TestNG automation framework for Fututres (FCM) from scratch, reducing regression cycles by ~40%
 - Led monthly releases and triaged post-production issues, driving faster defect resolution and stakeholder
 updates
 - Migrated core banking services to Azure and containerized with Docker to improve scalability and performance
@@ -48,6 +48,5 @@ systems and stakeholder reporting.
   
 **Capgemini :Software Engineer Apr 2014–Aug 2016**
 - Built a multi-database abstraction layer (Core Java) to enhance complex transactional systems (Rapid Cash
-transfers), improving performance and portability across heterogeneous databases. (Use "abstraction layer"
-and "portability" to emphasize robust design).
+transfers), improving performance and portability across heterogeneous databases. 
 - Delivered JasperReports reporting using Core Java and Oracle SQL
